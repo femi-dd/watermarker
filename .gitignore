@@ -74,5 +74,5 @@ typings/
 
 # FuseBox cache
 .fusebox/
-.vscode/launch.json
+.vscode/*
 config/cloudinary.config.js
